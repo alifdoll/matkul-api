@@ -1,1850 +1,2165 @@
 [
   {
-    "id": 2876,
-    "kode": "1605B025",
-    "nama": "Program Komputer",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "id_kp": "2901-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 2894,
-    "kode": "1605B061",
-    "nama": "Otomasi Industri",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "id_kp": "2902-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 2895,
-    "kode": "1605B062",
-    "nama": "Proyek Analisis Produk Manufaktur",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "2903MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 2896,
-    "kode": "1605B063",
-    "nama": "CNC & CAM",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "2906-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 2897,
-    "kode": "1605B064",
-    "nama": "Praktikum Proses Manufaktur",
-    "sks": "1",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "id_kp": "2906MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 2898,
-    "kode": "1605B065",
-    "nama": "Mould Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "2907MA",
+    "kode_kp": "MA",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 2899,
-    "kode": "1605B066",
-    "nama": "Metode Penelitian dan Desain Eksperimen",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3039D",
+    "kode_kp": "D",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 2903,
-    "kode": "1605B073",
-    "nama": "Kerja Praktek",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-3 Sabtu 07:30"
+    "id_kp": "3039E",
+    "kode_kp": "E",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 2905,
-    "kode": "1605B081",
-    "nama": "Perancangan Sistem Manufaktur",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3039F",
+    "kode_kp": "F",
+    "hari": "Rabu",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 2906,
-    "kode": "1605B082",
-    "nama": "Tugas Akhir",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-3 Sabtu 16:00"
+    "id_kp": "3040A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 2915,
-    "kode": "1605B182",
-    "nama": "Computational Fluid Dynamic",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3040A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 2921,
-    "kode": "1605B201",
-    "nama": "Magang 1: Manajemen Proyek",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-3 Sabtu 10:30"
+    "id_kp": "3040B",
+    "kode_kp": "B",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 2922,
-    "kode": "1605B202",
-    "nama": "Magang 2: Integrated Engineering",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-3 Sabtu 13:30"
+    "id_kp": "3040B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 2996,
-    "kode": "1301B04A",
-    "nama": "Strategi Internasional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "3040C",
+    "kode_kp": "C",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 2997,
-    "kode": "1301P03A",
-    "nama": "Manajemen Treasury",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "id_kp": "3040C",
+    "kode_kp": "C",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 2998,
-    "kode": "1302K07A",
-    "nama": "Strategi Investasi Global",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3043A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 2999,
-    "kode": "71C6F4",
-    "nama": "Mikrobiologi Lingkungan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3044A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3003,
-    "kode": "1201A112",
-    "nama": "Hukum Forensik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "3045A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3004,
-    "kode": "1201A114",
-    "nama": "Sistem Peradilan Anak dan Kekerasan thd Perempuan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3045B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3008,
-    "kode": "1302S09A",
-    "nama": "Inovasi Bisnis",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3046A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3009,
-    "kode": "1302S05A",
-    "nama": "Aplikasi Kewirausahaan Lanjutan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3047A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3010,
-    "kode": "1302S10A",
-    "nama": "Motivator SDM dan Pendamping Profesional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3049A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3011,
-    "kode": "1302M04A",
-    "nama": "Dasar Dasar Manajemen Pemasaran",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3049A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3012,
-    "kode": "1302M07A",
-    "nama": "Manajemen Pemasaran",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3052-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "19:25"
   },
   {
-    "id": 3013,
-    "kode": "1302K11A",
-    "nama": "Manajemen Risiko di Perusahaan dan Perbankan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Sabtu 07:30"
+    "id_kp": "3053A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3014,
-    "kode": "1302M11A",
-    "nama": "Perilaku Organisasi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 16:00"
+    "id_kp": "3053B",
+    "kode_kp": "B",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3015,
-    "kode": "1302M14A",
-    "nama": "Manajemen Strategik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3057A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3016,
-    "kode": "1302S11A",
-    "nama": "Public Speaking",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "id_kp": "3060A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3039,
-    "kode": "1600C001",
-    "nama": "Komposisi Bahasa Indonesia",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id_kp": "3060B",
+    "kode_kp": "B",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3040,
-    "kode": "1600C101",
-    "nama": "Kalkulus I",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3062A",
+    "kode_kp": "A",
+    "hari": "Jumat",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "11:35"
   },
   {
-    "id": 3041,
-    "kode": "1600C102",
-    "nama": "Kalkulus II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3062A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "11:35"
   },
   {
-    "id": 3042,
-    "kode": "1600C104",
-    "nama": "Mathematics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3062B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "11:35"
   },
   {
-    "id": 3044,
-    "kode": "1600C106",
-    "nama": "Aljabar Linier",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "id_kp": "3062B",
+    "kode_kp": "B",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3045,
-    "kode": "1600C107",
-    "nama": "Persamaan Diferensial Biasa",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3064-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3046,
-    "kode": "1600C108",
-    "nama": "Metode Numerik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3065-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3048,
-    "kode": "1603C206",
-    "nama": "Retail Supply Chain",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3065-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3049,
-    "kode": "1600C301",
-    "nama": "Fisika Dasar",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "3066Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3050,
-    "kode": "1600C302",
-    "nama": "Fisika Listrik dan Magnet",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3066Z",
+    "kode_kp": "Z",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3051,
-    "kode": "1600C303",
-    "nama": "Fisika Teknik Elektro",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3067-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3052,
-    "kode": "1600C304",
-    "nama": "Fisika Teknik",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3072-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3053,
-    "kode": "1600C305",
-    "nama": "Praktikum Fisika",
-    "sks": "1",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "id_kp": "3072-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "11:35"
   },
   {
-    "id": 3055,
-    "kode": "1600C402",
-    "nama": "Kimia Analitik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "id_kp": "3077-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3056,
-    "kode": "1600C403",
-    "nama": "Kimia Organik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "3079-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3058,
-    "kode": "1600C405",
-    "nama": "Kimia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3080MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3059,
-    "kode": "1600C491",
-    "nama": "Praktikum Kimia Analitik",
-    "sks": "1",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "id_kp": "3082-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3061,
-    "kode": "1600C493",
-    "nama": "Praktikum Kimia Fisika",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3083-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3063,
-    "kode": "1601C022",
-    "nama": "Algoritma Pemrograman",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "id_kp": "3084-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3066,
-    "kode": "1601C033",
-    "nama": "Elektronika Digital",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "id_kp": "3085-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "07:55",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3070,
-    "kode": "1601C044",
-    "nama": "Jaringan Komputer",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3085-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3071,
-    "kode": "1601C045",
-    "nama": "Sistem Telekomunikasi",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3088Z",
+    "kode_kp": "Z",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3073,
-    "kode": "1601C052",
-    "nama": "Mikrokontroler",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3088Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "17:35"
   },
   {
-    "id": 3074,
-    "kode": "1601C061",
-    "nama": "Sistem Kontrol",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "3093-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3075,
-    "kode": "1601C062",
-    "nama": "Mobile Application Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3093-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3077,
-    "kode": "1601C071",
-    "nama": "Metodologi Riset",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3094-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3078,
-    "kode": "1601C072",
-    "nama": "Elektronika Daya",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3094-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3079,
-    "kode": "1601C081",
-    "nama": "Tugas Akhir",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-3 Sabtu 07:30"
+    "id_kp": "3095-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3080,
-    "kode": "1601C088",
-    "nama": "Kerja Praktik",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Sabtu 13:30"
+    "id_kp": "3098Z",
+    "kode_kp": "Z",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3081,
-    "kode": "1601C121",
-    "nama": "Matematika Teknik Elektro",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "id_kp": "3098Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3084,
-    "kode": "1601C252",
-    "nama": "Gambar Teknik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "3102-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3086,
-    "kode": "1601C261",
-    "nama": "Artificial Intelligence",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "id_kp": "3102-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3087,
-    "kode": "1601C262",
-    "nama": "Robotika",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3107-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3089,
-    "kode": "1601C371",
-    "nama": "Renewable Energy",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "id_kp": "3109-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3096,
-    "kode": "1601C461",
-    "nama": "Wireless Network Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3119A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3097,
-    "kode": "1601C462",
-    "nama": "Keamanan Jaringan",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3119B",
+    "kode_kp": "B",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3100,
-    "kode": "1601C572",
-    "nama": "Computer Network Certification",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3120Z",
+    "kode_kp": "Z",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3110,
-    "kode": "1602C021",
-    "nama": "Neraca Massa dan Energi I",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3121-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3112,
-    "kode": "1602C041",
-    "nama": "Termodinamika II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "id_kp": "3123-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3113,
-    "kode": "1602C042",
-    "nama": "Mekanika Fluida",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3127-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "07:55",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3114,
-    "kode": "1602C043",
-    "nama": "Perpindahan Massa dan Panas",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3128-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3115,
-    "kode": "1602C044",
-    "nama": "Komputasi Numerik Terapan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3129-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3116,
-    "kode": "1602C045",
-    "nama": "Unit Operasi I",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3130-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
   },
   {
-    "id": 3117,
-    "kode": "1602C046",
-    "nama": "Dasar-dasar Teknologi & Ilmu Lingkungan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3132-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3118,
-    "kode": "1602C047",
-    "nama": "Metodologi Riset dan Analisis Statistika",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "3133-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
   },
   {
-    "id": 3122,
-    "kode": "1602C054",
-    "nama": "Teknik Reaksi Kimia I",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3134-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3124,
-    "kode": "1602C061",
-    "nama": "Praktikum Unit Operasi II",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3135-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3125,
-    "kode": "1602C062",
-    "nama": "Unit Operasi III",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3137-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3126,
-    "kode": "1602C063",
-    "nama": "Proses Industri Kimia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3138-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3127,
-    "kode": "1602C071",
-    "nama": "Pengendalian Proses",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3141-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3128,
-    "kode": "1602C072",
-    "nama": "Desain Alat",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "id_kp": "3142-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3131,
-    "kode": "1602C075",
-    "nama": "Kerja Praktik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3145-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3132,
-    "kode": "1602C076",
-    "nama": "Perancangan Pabrik Kimia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "id_kp": "3146-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3134,
-    "kode": "1602C081",
-    "nama": "Penelitian",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-3 Selasa 10:30"
+    "id_kp": "3151-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3135,
-    "kode": "1602C082",
-    "nama": "Desain Proyek",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3152-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3143,
-    "kode": "1602C161",
-    "nama": "Teknologi Pengolahan Air Buangan I",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3159-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3144,
-    "kode": "1602C162",
-    "nama": "Teknologi Pemrosesan Pangan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3160B",
+    "kode_kp": "B",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3147,
-    "kode": "1602C181",
-    "nama": "Pencegahan Polusi",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id_kp": "3161-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3148,
-    "kode": "1602C182",
-    "nama": "Pengendalian Mutu dan Keamanan Pangan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3164-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3151,
-    "kode": "1602C273",
-    "nama": "Teknologi Polimer",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3165-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3152,
-    "kode": "1602C274",
-    "nama": "Teknologi Membran",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3166A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3155,
-    "kode": "1602C277",
-    "nama": "Teknologi Pengolahan Minyak dan Lemak",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3166B",
+    "kode_kp": "B",
+    "hari": "Kamis",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3160,
-    "kode": "1603C012",
-    "nama": "Logika Pemrograman",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "id_kp": "3167Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3161,
-    "kode": "1603C021",
-    "nama": "Statistika Industri I",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3168-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3162,
-    "kode": "1603C022",
-    "nama": "Pengetahuan Bahan Teknik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3169B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3163,
-    "kode": "1603C023",
-    "nama": "Pengantar Ilmu Ekonomi",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3169B",
+    "kode_kp": "B",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3164,
-    "kode": "1603C031",
-    "nama": "Statistika Industri II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3170-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3165,
-    "kode": "1603C032",
-    "nama": "Penyelidikan Operasional I",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3171-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3166,
-    "kode": "1603C033",
-    "nama": "Ergonomi Industri",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3172-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3167,
-    "kode": "1603C034",
-    "nama": "Analisis Biaya",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "id_kp": "3172-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3168,
-    "kode": "1603C035",
-    "nama": "Menggambar Teknik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "id_kp": "3173Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3169,
-    "kode": "1603C036",
-    "nama": "Proses Manufaktur",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "3176-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3170,
-    "kode": "1603C041",
-    "nama": "Penyelidikan Operasional II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3177A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3171,
-    "kode": "1603C042",
-    "nama": "Analisis & Perancangan Kerja",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3178-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3172,
-    "kode": "1603C043",
-    "nama": "Quality Control & Reliability",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "id_kp": "3179-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3173,
-    "kode": "1603C044",
-    "nama": "Marketing in Digital Era",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3181-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3174,
-    "kode": "1603C045",
-    "nama": "Ekonomi Teknik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3182-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3175,
-    "kode": "1603C046",
-    "nama": "Mekanika Teknik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "id_kp": "3183Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3176,
-    "kode": "1603C047",
-    "nama": "Psikologi Kerja",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "id_kp": "3184-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3177,
-    "kode": "1603C051",
-    "nama": "Pemodelan Sistem",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 07:30"
+    "id_kp": "3185-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3178,
-    "kode": "1603C052",
-    "nama": "Perencanaan & Pengendalian Produksi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3186A",
+    "kode_kp": "A",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3179,
-    "kode": "1603C053",
-    "nama": "Sistem Persediaan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3187A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3180,
-    "kode": "1603C054",
-    "nama": "Manajemen Organisasi",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 16:00"
+    "id_kp": "3188Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3181,
-    "kode": "1603C055",
-    "nama": "Teknologi & Lingkungan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id_kp": "3190-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3182,
-    "kode": "1603C056",
-    "nama": "Quality Management System",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Jumat 13:30"
+    "id_kp": "3191-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3183,
-    "kode": "1603C057",
-    "nama": "Perancangan & Pengembangan Produk",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3192-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "07:55"
   },
   {
-    "id": 3184,
-    "kode": "1603C061",
-    "nama": "Tata Letak Fasilitas",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "id_kp": "3193MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3185,
-    "kode": "1603C062",
-    "nama": "Supply Chain Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3194-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "11:35"
   },
   {
-    "id": 3186,
-    "kode": "1603C063",
-    "nama": "Simulasi Sistem Industri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id_kp": "3198Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3187,
-    "kode": "1603C064",
-    "nama": "Sistem Informasi Manajemen",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "id_kp": "3200-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3188,
-    "kode": "1603C065",
-    "nama": "Kesehatan & Keselamatan Kerja",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "id_kp": "3201-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3189,
-    "kode": "1603C071",
-    "nama": "Data Science",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3202-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3190,
-    "kode": "1603C072",
-    "nama": "Perencanaan Industri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "id_kp": "3204-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3191,
-    "kode": "1603C073",
-    "nama": "Metodologi Penelitian",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3212Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3192,
-    "kode": "1603C074",
-    "nama": "Kerja Praktik I",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-3 Sabtu 13:30"
+    "id_kp": "3214A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "11:35",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3193,
-    "kode": "1603C081",
-    "nama": "Kerja Praktik II",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-3 Sabtu 10:30"
+    "id_kp": "3214B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "11:35",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3194,
-    "kode": "1603C082",
-    "nama": "Tugas Akhir",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-3 Sabtu 07:30"
+    "id_kp": "3214C",
+    "kode_kp": "C",
+    "hari": "Selasa",
+    "waktuMulai": "11:35",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3195,
-    "kode": "1603C101",
-    "nama": "Strategic and Performance Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3214E",
+    "kode_kp": "E",
+    "hari": "Selasa",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3196,
-    "kode": "1603C102",
-    "nama": "New Product & Service Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3214F",
+    "kode_kp": "F",
+    "hari": "Selasa",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3197,
-    "kode": "1603C103",
-    "nama": "Lean Enterprise System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "id_kp": "3214G",
+    "kode_kp": "G",
+    "hari": "Kamis",
+    "waktuMulai": "14:50",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3199,
-    "kode": "1603C105",
-    "nama": "Market Research & CRM",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3214H",
+    "kode_kp": "H",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3203,
-    "kode": "1603C109",
-    "nama": "Maintenance Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3214H",
+    "kode_kp": "H",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3206,
-    "kode": "1603C201",
-    "nama": "Green Supply Chain Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 16:00"
+    "id_kp": "3214Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "11:35",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3207,
-    "kode": "1603C202",
-    "nama": "Global Supply Chain Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3215Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3208,
-    "kode": "1603C204",
-    "nama": "Procurement & Supply Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 07:30"
+    "id_kp": "3215ZA",
+    "kode_kp": "ZA",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3209,
-    "kode": "1603C205",
-    "nama": "Warehouse Management System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3215ZB",
+    "kode_kp": "ZB",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3214,
-    "kode": "1604C011",
-    "nama": "Algorithm and Programming",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3215ZC",
+    "kode_kp": "ZC",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3217,
-    "kode": "1604C021",
-    "nama": "Object Oriented Programming",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3215ZD",
+    "kode_kp": "ZD",
+    "hari": "Senin",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3218,
-    "kode": "1604C022",
-    "nama": "Operating System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3216A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3219,
-    "kode": "1604C023",
-    "nama": "Statistics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id_kp": "3216B",
+    "kode_kp": "B",
+    "hari": "Rabu",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3220,
-    "kode": "1604C024",
-    "nama": "Human Computer Interaction",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3216C",
+    "kode_kp": "C",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3223,
-    "kode": "1604C033",
-    "nama": "Database",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3216D",
+    "kode_kp": "D",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3224,
-    "kode": "1604C034",
-    "nama": "Software Engineering",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3216Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "07:55",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3226,
-    "kode": "1604C042",
-    "nama": "AI Fundamental",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "id_kp": "3219A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3227,
-    "kode": "1604C043",
-    "nama": "Web Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "3221B",
+    "kode_kp": "B",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3228,
-    "kode": "1604C044",
-    "nama": "Distributed Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3221C",
+    "kode_kp": "C",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3229,
-    "kode": "1604C045",
-    "nama": "Information Security and Assurance",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3221Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3230,
-    "kode": "1604C046",
-    "nama": "Data Science Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3222A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3236,
-    "kode": "1604C061",
-    "nama": "Leadership and Professional Ethics",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3222B",
+    "kode_kp": "B",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3237,
-    "kode": "1604C062",
-    "nama": "Advanced Native Mobile Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3222C",
+    "kode_kp": "C",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3238,
-    "kode": "1604C063",
-    "nama": "Web Framework Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3222D",
+    "kode_kp": "D",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3239,
-    "kode": "1604C071",
-    "nama": "Research Methodology",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3222Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3240,
-    "kode": "1604C072",
-    "nama": "Kerja Praktek",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3223D",
+    "kode_kp": "D",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3241,
-    "kode": "1604C081",
-    "nama": "Tugas Akhir",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-3 Sabtu 07:30"
+    "id_kp": "3223D",
+    "kode_kp": "D",
+    "hari": "Selasa",
+    "waktuMulai": "07:55",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3246,
-    "kode": "1604C095",
-    "nama": "Special Topics in Mobile Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "3223E",
+    "kode_kp": "E",
+    "hari": "Senin",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3247,
-    "kode": "1604C09A",
-    "nama": "Industrial Experience",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3223E",
+    "kode_kp": "E",
+    "hari": "Rabu",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3248,
-    "kode": "1604C09B",
-    "nama": "Industrial Practise",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3223Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3267,
-    "kode": "1604C09U",
-    "nama": "IT Project Experience",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3223Z",
+    "kode_kp": "Z",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3271,
-    "kode": "1604C09Y",
-    "nama": "IT Professional Management",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3224B",
+    "kode_kp": "B",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3274,
-    "kode": "1604C141",
-    "nama": "Applied Database",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3224B",
+    "kode_kp": "B",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3275,
-    "kode": "1604C151",
-    "nama": "Database Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3224D",
+    "kode_kp": "D",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3276,
-    "kode": "1604C161",
-    "nama": "Supply Chain Management Accounting System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "id_kp": "3224D",
+    "kode_kp": "D",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3277,
-    "kode": "1604C162",
-    "nama": "Enterprise System Implementation",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3224Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3279,
-    "kode": "1604C19B",
-    "nama": "Special Topics in Software Engineering",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id_kp": "3224Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3280,
-    "kode": "1604C19C",
-    "nama": "Software Engineering Workshop",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3229Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3281,
-    "kode": "1604C19D",
-    "nama": "Business Intelligence & Data Analytics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3231C",
+    "kode_kp": "C",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3285,
-    "kode": "1604C19H",
-    "nama": "Emerging Technology",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3231D",
+    "kode_kp": "D",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3287,
-    "kode": "1604C241",
-    "nama": "Game Modelling & Animation",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3231E",
+    "kode_kp": "E",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3289,
-    "kode": "1604C261",
-    "nama": "Mixed Reality",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 13:30"
+    "id_kp": "3231F",
+    "kode_kp": "F",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3290,
-    "kode": "1604C262",
-    "nama": "Mobile Game Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3231MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3291,
-    "kode": "1604C29A",
-    "nama": "Educational Games",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3231Z",
+    "kode_kp": "Z",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3292,
-    "kode": "1604C29B",
-    "nama": "Game Studio",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3232Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3295,
-    "kode": "1604C29E",
-    "nama": "Immersive Computing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3232ZB",
+    "kode_kp": "ZB",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3298,
-    "kode": "1604C341",
-    "nama": "Applied Multivariate Analysis",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3232ZC",
+    "kode_kp": "ZC",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3299,
-    "kode": "1604C351",
-    "nama": "Digital Image Processing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3232ZD",
+    "kode_kp": "ZD",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3300,
-    "kode": "1604C361",
-    "nama": "Operation Research",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3233A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3301,
-    "kode": "1604C362",
-    "nama": "Intelligent Information Retrieval",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3233B",
+    "kode_kp": "B",
+    "hari": "Selasa",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3303,
-    "kode": "1604C39B",
-    "nama": "Decision Support Systems",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3233C",
+    "kode_kp": "C",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3309,
-    "kode": "1604C39H",
-    "nama": "Special Topic in DSAI",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3233Z",
+    "kode_kp": "Z",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3310,
-    "kode": "1604C39I",
-    "nama": "Deep Learning",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "id_kp": "3234B",
+    "kode_kp": "B",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3311,
-    "kode": "1604C39J",
-    "nama": "Nature Inspired Optimization",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3234C",
+    "kode_kp": "C",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3312,
-    "kode": "1604C39K",
-    "nama": "Natural Language Processing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3234F",
+    "kode_kp": "F",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3314,
-    "kode": "1604C441",
-    "nama": "Cloud Computing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3234MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3316,
-    "kode": "1604C461",
-    "nama": "Digital Forensics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3234Z",
+    "kode_kp": "Z",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3317,
-    "kode": "1604C462",
-    "nama": "Network Security Implementation",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 13:30"
+    "id_kp": "3235A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3323,
-    "kode": "1604C49F",
-    "nama": "Advanced Computer Network",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3235B",
+    "kode_kp": "B",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3328,
-    "kode": "1607C041",
-    "nama": "Manajemen SDM dan Organisasi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3235C",
+    "kode_kp": "C",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3329,
-    "kode": "1607C051",
-    "nama": "Sistem Informasi Produksi dan SCM",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3235D",
+    "kode_kp": "D",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3330,
-    "kode": "1607C052",
-    "nama": "Tata Kelola dan Audit IT",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3235Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3331,
-    "kode": "1607C053",
-    "nama": "IT Leadership & Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3236A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3332,
-    "kode": "1607C061",
-    "nama": "Sistem Informasi Geografis",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "id_kp": "3238A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3333,
-    "kode": "1607C062",
-    "nama": "Sistem Informasi Akuntansi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "id_kp": "3239ZA",
+    "kode_kp": "ZA",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3334,
-    "kode": "1607C063",
-    "nama": "Enterprise Resource Planning",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3239ZC",
+    "kode_kp": "ZC",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3335,
-    "kode": "1607C09A",
-    "nama": "Topik Khusus SIA",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id_kp": "3239ZD",
+    "kode_kp": "ZD",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3337,
-    "kode": "1607C09C",
-    "nama": "System Testing & Implementation",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3240MA",
+    "kode_kp": "MA",
+    "hari": "Senin",
+    "waktuMulai": "19:25",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3338,
-    "kode": "1607C09D",
-    "nama": "Business Communication",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3241-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3339,
-    "kode": "1607C09E",
-    "nama": "Customer Relationship Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3246-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3340,
-    "kode": "1607C09F",
-    "nama": "IT Preneurship",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "id_kp": "3251MA",
+    "kode_kp": "MA",
+    "hari": "Kamis",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3341,
-    "kode": "1607C09G",
-    "nama": "Urban Information System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3252MA",
+    "kode_kp": "MA",
+    "hari": "Selasa",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3343,
-    "kode": "1608C09L",
-    "nama": "Workshop in Animation",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3255MA",
+    "kode_kp": "MA",
+    "hari": "Rabu",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3344,
-    "kode": "1608C09M",
-    "nama": "Workshop in Videography",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3256MA",
+    "kode_kp": "MA",
+    "hari": "Jumat",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3348,
-    "kode": "1608C041",
-    "nama": "Graphic Design in Multimedia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3267MA",
+    "kode_kp": "MA",
+    "hari": "Senin",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3349,
-    "kode": "1608C042",
-    "nama": "3D Modelling",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3271MA",
+    "kode_kp": "MA",
+    "hari": "Kamis",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3350,
-    "kode": "1608C043",
-    "nama": "Multimedia Composition & Layout",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3272MA",
+    "kode_kp": "MA",
+    "hari": "Jumat",
+    "waktuMulai": "16:40",
+    "waktuBerakhir": "20:20"
   },
   {
-    "id": 3352,
-    "kode": "1608C052",
-    "nama": "Digital Video",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3273-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3353,
-    "kode": "1608C053",
-    "nama": "3D Animation",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3276-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3354,
-    "kode": "1608C061",
-    "nama": "Game Engineering",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3277-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3355,
-    "kode": "1608C062",
-    "nama": "Digital Video Editing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3285A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3356,
-    "kode": "1608C09A",
-    "nama": "Art Game Assets",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3285B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3359,
-    "kode": "1608C09D",
-    "nama": "Educational Multimedia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3288A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3362,
-    "kode": "1608C09G",
-    "nama": "Stop Motion",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "id_kp": "3291A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3363,
-    "kode": "1608C09H",
-    "nama": "Tabletop Game Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3297A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3368,
-    "kode": "1610C021",
-    "nama": "Pengetahuan Bahan Teknik",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "id_kp": "3297Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3369,
-    "kode": "1610C022",
-    "nama": "Termodinamika",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3301Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3370,
-    "kode": "1610C023",
-    "nama": "Statika",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3302Z",
+    "kode_kp": "Z",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3371,
-    "kode": "1610C024",
-    "nama": "Computer Aided Design",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3304A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3378,
-    "kode": "1610C041",
-    "nama": "Elemen Mesin I",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 13:30"
+    "id_kp": "3304MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3379,
-    "kode": "1610C042",
-    "nama": "Proses Manufaktur: Pemesinan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id_kp": "3305Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3380,
-    "kode": "1610C043",
-    "nama": "Perpindahan Panas",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3308Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3382,
-    "kode": "1610C045",
-    "nama": "Proses Manufaktur: Pembentukan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "id_kp": "3315A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3394,
-    "kode": "1610C065",
-    "nama": "Riset Operasional",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3318A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3415,
-    "kode": "1610C116",
-    "nama": "Pemilihan Material untuk Perancangan Rekayasa",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
+    "id_kp": "3325A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3418,
-    "kode": "1604C19E",
-    "nama": "Business Geography",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3326A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3420,
-    "kode": "1602C064",
-    "nama": "Teknik Reaksi Kimia II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "id_kp": "3328-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3421,
-    "kode": "1602C065",
-    "nama": "Keselamatan dan Kesehatan Kerja",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "id_kp": "3329A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3430,
-    "kode": "1603Z002",
-    "nama": "Pancasila dan Kewarganegaraan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 16:00"
+    "id_kp": "3330A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3468,
-    "kode": "1601Z012",
-    "nama": "Manusia dan Pengembangan Diri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3331A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3469,
-    "kode": "1602Z012",
-    "nama": "Manusia dan Pengembangan Diri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3332A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3470,
-    "kode": "1603Z012",
-    "nama": "Manusia dan Pengembangan Diri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3333A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3471,
-    "kode": "1604Z012",
-    "nama": "Manusia dan Pengembangan Diri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3334-",
+    "kode_kp": "-",
+    "hari": "Sabtu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3472,
-    "kode": "1610Z012",
-    "nama": "Manusia dan Pengembangan Diri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "id_kp": "3337A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3473,
-    "kode": "1601Z013",
-    "nama": "Literasi Digital",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3339A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3474,
-    "kode": "1602Z013",
-    "nama": "Literasi Digital",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3340A",
+    "kode_kp": "A",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3475,
-    "kode": "1603Z013",
-    "nama": "Literasi Digital",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3341-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3476,
-    "kode": "1604Z013",
-    "nama": "Literasi Digital",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3342P",
+    "kode_kp": "P",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3477,
-    "kode": "1610Z013",
-    "nama": "Literasi Digital",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3346Q",
+    "kode_kp": "Q",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3479,
-    "kode": "1602Z014",
-    "nama": "Communicative English",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3347Q",
+    "kode_kp": "Q",
+    "hari": "Kamis",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3481,
-    "kode": "1604Z014",
-    "nama": "Communicative English",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "id_kp": "3351P",
+    "kode_kp": "P",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3484,
-    "kode": "1604C09V",
-    "nama": "IT Project Management",
-    "sks": "5",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3351Q",
+    "kode_kp": "Q",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3486,
-    "kode": "1600C109",
-    "nama": "Discrete Mathematics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "id_kp": "3352P",
+    "kode_kp": "P",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3488,
-    "kode": "1608C09P",
-    "nama": "Special Topics in Multimedia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "id_kp": "3353P",
+    "kode_kp": "P",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3489,
-    "kode": "1604C49J",
-    "nama": "Special Topics in NCS",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3361MA",
+    "kode_kp": "MA",
+    "hari": "Jumat",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "13:55"
   },
   {
-    "id": 3493,
-    "kode": "1000C003",
-    "nama": "Pendidikan Agama Kristen",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
+    "id_kp": "3366-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3494,
-    "kode": "1000C004",
-    "nama": "Pendidikan Agama Katolik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
+    "id_kp": "3367-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3495,
-    "kode": "1000C005",
-    "nama": "Pendidikan Agama Islam",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
+    "id_kp": "3372-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3496,
-    "kode": "1000C006",
-    "nama": "Pendidikan Agama Hindu",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
+    "id_kp": "3373-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3497,
-    "kode": "1000C007",
-    "nama": "Pendidikan Agama Budha",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
+    "id_kp": "3375Z",
+    "kode_kp": "Z",
+    "hari": "Senin",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3498,
-    "kode": "1000C008",
-    "nama": "Pendidikan Agama Khonghucu",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
+    "id_kp": "3376-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3502,
-    "kode": "1602C280",
-    "nama": "Energi Terbarukan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "id_kp": "3377-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "14:50"
   },
   {
-    "id": 3512,
-    "kode": "1301E11A",
-    "nama": "Ekonomi Bisnis UMKM",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3383-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "07:55",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3513,
-    "kode": "1301E13A",
-    "nama": "Bisnis Internasional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 07:30"
+    "id_kp": "3384-",
+    "kode_kp": "-",
+    "hari": "Senin",
+    "waktuMulai": "08:50",
+    "waktuBerakhir": "10:40"
   },
   {
-    "id": 3514,
-    "kode": "1301B06A",
-    "nama": "Topik Kontemporer Bisnis Internasional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id_kp": "3384-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3515,
-    "kode": "1301P01A",
-    "nama": "Ekonomi Syariah",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "id_kp": "3385-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3516,
-    "kode": "1303A03A",
-    "nama": "Akuntansi Biaya",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "id_kp": "3386-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "10:40",
+    "waktuBerakhir": "12:30"
   },
   {
-    "id": 3517,
-    "kode": "1303A10A",
-    "nama": "Sistem Informasi Akuntansi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id_kp": "3387-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
   },
   {
-    "id": 3518,
-    "kode": "1303A34A",
-    "nama": "Investasi dan Pasar Modal",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 16:00"
+    "id_kp": "3388-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3525,
-    "kode": "1201A111",
-    "nama": "Kejahatan Siber",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id_kp": "3389-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "16:40"
   },
   {
-    "id": 3527,
-    "kode": "1801B061",
-    "nama": "Sustainable Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "id_kp": "3398-",
+    "kode_kp": "-",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3528,
-    "kode": "1801B046",
-    "nama": "Digital Marketing",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-  07:00"
+    "id_kp": "3398-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
   },
   {
-    "id": 3529,
-    "kode": "71C6F7",
-    "nama": "Purifikasi Bioproduk",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 16:00"
+    "id_kp": "3417-",
+    "kode_kp": "-",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   },
   {
-    "id": 3530,
-    "kode": "1701D7F1",
-    "nama": "Regulasi Bioindustri",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "id_kp": "3421Z",
+    "kode_kp": "Z",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
   },
   {
-    "id": 3531,
-    "kode": "1702B0P2",
-    "nama": "Teknologi Permen dan Makanan Ringan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id_kp": "3422D",
+    "kode_kp": "D",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3532,
-    "kode": "1702B0P4",
-    "nama": "Teknologi Hasil Hewani",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "id_kp": "3422E",
+    "kode_kp": "E",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3533,
-    "kode": "1301Z001",
-    "nama": "Kewirausahaan dan Inovasi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 16:00"
+    "id_kp": "3422Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3534,
-    "kode": "1000A011",
-    "nama": "Start-up Business Development",
-    "sks": "6",
-    "ujian": "Ujian minggu ke-2 Rabu 16:00"
+    "id_kp": "3429E2",
+    "kode_kp": "E2",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
   },
   {
-    "id": 3535,
-    "kode": "1601C392",
-    "nama": "Topik Khusus IR: Autonomous",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id_kp": "3431E4",
+    "kode_kp": "E4",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3431E5",
+    "kode_kp": "E5",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3431E6",
+    "kode_kp": "E6",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3431E7",
+    "kode_kp": "E7",
+    "hari": "Senin",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3431E8",
+    "kode_kp": "E8",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3469E2",
+    "kode_kp": "E2",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3470E3",
+    "kode_kp": "E3",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3471E4",
+    "kode_kp": "E4",
+    "hari": "Jumat",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3471E5",
+    "kode_kp": "E5",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3471E6",
+    "kode_kp": "E6",
+    "hari": "Senin",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3471E7",
+    "kode_kp": "E7",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3471E8",
+    "kode_kp": "E8",
+    "hari": "Jumat",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3473E1",
+    "kode_kp": "E1",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3474E2",
+    "kode_kp": "E2",
+    "hari": "Senin",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3475E3",
+    "kode_kp": "E3",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3476E4",
+    "kode_kp": "E4",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3476E6",
+    "kode_kp": "E6",
+    "hari": "Jumat",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3476E8",
+    "kode_kp": "E8",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3477E1",
+    "kode_kp": "E1",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3480E3",
+    "kode_kp": "E3",
+    "hari": "Selasa",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3482E1",
+    "kode_kp": "E1",
+    "hari": "Jumat",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "17:35"
+  },
+  {
+    "id_kp": "3484MA",
+    "kode_kp": "MA",
+    "hari": "Sabtu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "19:25"
+  },
+  {
+    "id_kp": "3487A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
+  },
+  {
+    "id_kp": "3487A",
+    "kode_kp": "A",
+    "hari": "Kamis",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
+  },
+  {
+    "id_kp": "3493E1",
+    "kode_kp": "E1",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3496C1",
+    "kode_kp": "C1",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3498C1",
+    "kode_kp": "C1",
+    "hari": "Kamis",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3500A",
+    "kode_kp": "A",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
+  },
+  {
+    "id_kp": "3500B",
+    "kode_kp": "B",
+    "hari": "Jumat",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
+  },
+  {
+    "id_kp": "3500C",
+    "kode_kp": "C",
+    "hari": "Jumat",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
+  },
+  {
+    "id_kp": "3500D",
+    "kode_kp": "D",
+    "hari": "Rabu",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
+  },
+  {
+    "id_kp": "3500Z",
+    "kode_kp": "Z",
+    "hari": "Selasa",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
+  },
+  {
+    "id_kp": "3533A",
+    "kode_kp": "A",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
+  },
+  {
+    "id_kp": "3533B",
+    "kode_kp": "B",
+    "hari": "Senin",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
+  },
+  {
+    "id_kp": "3533C",
+    "kode_kp": "C",
+    "hari": "Senin",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3533D",
+    "kode_kp": "D",
+    "hari": "Senin",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3533E",
+    "kode_kp": "E",
+    "hari": "Selasa",
+    "waktuMulai": "09:45",
+    "waktuBerakhir": "12:30"
+  },
+  {
+    "id_kp": "3533F",
+    "kode_kp": "F",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
+  },
+  {
+    "id_kp": "3533G",
+    "kode_kp": "G",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
+  },
+  {
+    "id_kp": "3533H",
+    "kode_kp": "H",
+    "hari": "Rabu",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
+  },
+  {
+    "id_kp": "3533I",
+    "kode_kp": "I",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3533J",
+    "kode_kp": "J",
+    "hari": "Rabu",
+    "waktuMulai": "15:45",
+    "waktuBerakhir": "18:30"
+  },
+  {
+    "id_kp": "3571Z",
+    "kode_kp": "Z",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "08:50"
+  },
+  {
+    "id_kp": "3572-",
+    "kode_kp": "-",
+    "hari": "Selasa",
+    "waktuMulai": "13:00",
+    "waktuBerakhir": "15:45"
+  },
+  {
+    "id_kp": "3573-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
+  },
+  {
+    "id_kp": "3581-",
+    "kode_kp": "-",
+    "hari": "Kamis",
+    "waktuMulai": "07:00",
+    "waktuBerakhir": "09:45"
   }
 ]

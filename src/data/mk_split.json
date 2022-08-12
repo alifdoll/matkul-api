@@ -1,52 +1,17 @@
 [
   {
-    "id": 2876,
-    "kode": "1605B025",
-    "nama": "Program Komputer",
+    "id": 2901,
+    "kode": "1605B071",
+    "nama": "Design Project",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "ujian": "Ujian minggu ke-  07:00"
   },
   {
-    "id": 2894,
-    "kode": "1605B061",
-    "nama": "Otomasi Industri",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
-  },
-  {
-    "id": 2895,
-    "kode": "1605B062",
-    "nama": "Proyek Analisis Produk Manufaktur",
+    "id": 2902,
+    "kode": "1605B072",
+    "nama": "Keselamatan Kesehatan Kerja dan Lingkungan",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
-  },
-  {
-    "id": 2896,
-    "kode": "1605B063",
-    "nama": "CNC & CAM",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
-  },
-  {
-    "id": 2897,
-    "kode": "1605B064",
-    "nama": "Praktikum Proses Manufaktur",
-    "sks": "1",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
-  },
-  {
-    "id": 2898,
-    "kode": "1605B065",
-    "nama": "Mould Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
-  },
-  {
-    "id": 2899,
-    "kode": "1605B066",
-    "nama": "Metode Penelitian dan Desain Eksperimen",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "ujian": "Ujian minggu ke-1 Kamis 13:30"
   },
   {
     "id": 2903,
@@ -56,144 +21,18 @@
     "ujian": "Ujian minggu ke-3 Sabtu 07:30"
   },
   {
-    "id": 2905,
-    "kode": "1605B081",
-    "nama": "Perancangan Sistem Manufaktur",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
-  },
-  {
     "id": 2906,
     "kode": "1605B082",
     "nama": "Tugas Akhir",
     "sks": "5",
-    "ujian": "Ujian minggu ke-3 Sabtu 16:00"
+    "ujian": "Ujian minggu ke-2 Sabtu 16:00"
   },
   {
-    "id": 2915,
-    "kode": "1605B182",
-    "nama": "Computational Fluid Dynamic",
+    "id": 2907,
+    "kode": "1605B171",
+    "nama": "Tools and Dies Design",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
-  },
-  {
-    "id": 2921,
-    "kode": "1605B201",
-    "nama": "Magang 1: Manajemen Proyek",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-3 Sabtu 10:30"
-  },
-  {
-    "id": 2922,
-    "kode": "1605B202",
-    "nama": "Magang 2: Integrated Engineering",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-3 Sabtu 13:30"
-  },
-  {
-    "id": 2996,
-    "kode": "1301B04A",
-    "nama": "Strategi Internasional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
-  },
-  {
-    "id": 2997,
-    "kode": "1301P03A",
-    "nama": "Manajemen Treasury",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
-  },
-  {
-    "id": 2998,
-    "kode": "1302K07A",
-    "nama": "Strategi Investasi Global",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
-  },
-  {
-    "id": 2999,
-    "kode": "71C6F4",
-    "nama": "Mikrobiologi Lingkungan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
-  },
-  {
-    "id": 3003,
-    "kode": "1201A112",
-    "nama": "Hukum Forensik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
-  },
-  {
-    "id": 3004,
-    "kode": "1201A114",
-    "nama": "Sistem Peradilan Anak dan Kekerasan thd Perempuan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
-  },
-  {
-    "id": 3008,
-    "kode": "1302S09A",
-    "nama": "Inovasi Bisnis",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
-  },
-  {
-    "id": 3009,
-    "kode": "1302S05A",
-    "nama": "Aplikasi Kewirausahaan Lanjutan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
-  },
-  {
-    "id": 3010,
-    "kode": "1302S10A",
-    "nama": "Motivator SDM dan Pendamping Profesional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
-  },
-  {
-    "id": 3011,
-    "kode": "1302M04A",
-    "nama": "Dasar Dasar Manajemen Pemasaran",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
-  },
-  {
-    "id": 3012,
-    "kode": "1302M07A",
-    "nama": "Manajemen Pemasaran",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
-  },
-  {
-    "id": 3013,
-    "kode": "1302K11A",
-    "nama": "Manajemen Risiko di Perusahaan dan Perbankan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Sabtu 07:30"
-  },
-  {
-    "id": 3014,
-    "kode": "1302M11A",
-    "nama": "Perilaku Organisasi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 16:00"
-  },
-  {
-    "id": 3015,
-    "kode": "1302M14A",
-    "nama": "Manajemen Strategik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3016,
-    "kode": "1302S11A",
-    "nama": "Public Speaking",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "ujian": "Ujian minggu ke-2 Kamis 13:30"
   },
   {
     "id": 3039,
@@ -207,182 +46,126 @@
     "kode": "1600C101",
     "nama": "Kalkulus I",
     "sks": "4",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "ujian": "Ujian minggu ke-1 Selasa 07:30"
   },
   {
-    "id": 3041,
-    "kode": "1600C102",
-    "nama": "Kalkulus II",
+    "id": 3043,
+    "kode": "1600C105",
+    "nama": "Matematika Optimisasi",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
-  },
-  {
-    "id": 3042,
-    "kode": "1600C104",
-    "nama": "Mathematics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "ujian": "Ujian minggu ke-2 Selasa 10:30"
   },
   {
     "id": 3044,
     "kode": "1600C106",
     "nama": "Aljabar Linier",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
   },
   {
     "id": 3045,
     "kode": "1600C107",
     "nama": "Persamaan Diferensial Biasa",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "ujian": "Ujian minggu ke-1 Rabu 13:30"
   },
   {
     "id": 3046,
     "kode": "1600C108",
     "nama": "Metode Numerik",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "ujian": "Ujian minggu ke-1 Jumat 07:30"
   },
   {
-    "id": 3048,
-    "kode": "1603C206",
-    "nama": "Retail Supply Chain",
+    "id": 3047,
+    "kode": "1600C201",
+    "nama": "Statistika",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
     "id": 3049,
     "kode": "1600C301",
     "nama": "Fisika Dasar",
     "sks": "4",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
-  },
-  {
-    "id": 3050,
-    "kode": "1600C302",
-    "nama": "Fisika Listrik dan Magnet",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
-  },
-  {
-    "id": 3051,
-    "kode": "1600C303",
-    "nama": "Fisika Teknik Elektro",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "ujian": "Ujian minggu ke-1 Rabu 07:30"
   },
   {
     "id": 3052,
     "kode": "1600C304",
     "nama": "Fisika Teknik",
     "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "ujian": "Ujian minggu ke-2 Kamis 13:30"
   },
   {
     "id": 3053,
     "kode": "1600C305",
     "nama": "Praktikum Fisika",
     "sks": "1",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "ujian": "Ujian minggu ke-2 Senin 13:30"
   },
   {
-    "id": 3055,
-    "kode": "1600C402",
-    "nama": "Kimia Analitik",
+    "id": 3057,
+    "kode": "1600C404",
+    "nama": "Kimia Fisika",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "ujian": "Ujian minggu ke-1 Kamis 10:30"
   },
   {
-    "id": 3056,
-    "kode": "1600C403",
-    "nama": "Kimia Organik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
-  },
-  {
-    "id": 3058,
-    "kode": "1600C405",
-    "nama": "Kimia",
-    "sks": "3",
+    "id": 3060,
+    "kode": "1600C492",
+    "nama": "Praktikum Kimia  Organik",
+    "sks": "2",
     "ujian": "Ujian minggu ke-1 Jumat 07:30"
   },
   {
-    "id": 3059,
-    "kode": "1600C491",
-    "nama": "Praktikum Kimia Analitik",
-    "sks": "1",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "id": 3062,
+    "kode": "1601C011",
+    "nama": "Pengantar Teknik Elektro",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Senin 13:30"
   },
   {
-    "id": 3061,
-    "kode": "1600C493",
-    "nama": "Praktikum Kimia Fisika",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "id": 3064,
+    "kode": "1601C031",
+    "nama": "Medan Elektromagnetika",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Selasa 07:30"
   },
   {
-    "id": 3063,
-    "kode": "1601C022",
-    "nama": "Algoritma Pemrograman",
+    "id": 3065,
+    "kode": "1601C032",
+    "nama": "Rangkaian Listrik",
     "sks": "4",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "ujian": "Ujian minggu ke-1 Senin 13:30"
   },
   {
     "id": 3066,
     "kode": "1601C033",
     "nama": "Elektronika Digital",
     "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
-  },
-  {
-    "id": 3070,
-    "kode": "1601C044",
-    "nama": "Jaringan Komputer",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
-  },
-  {
-    "id": 3071,
-    "kode": "1601C045",
-    "nama": "Sistem Telekomunikasi",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
-  },
-  {
-    "id": 3073,
-    "kode": "1601C052",
-    "nama": "Mikrokontroler",
-    "sks": "4",
     "ujian": "Ujian minggu ke-2 Rabu 10:30"
   },
   {
-    "id": 3074,
-    "kode": "1601C061",
-    "nama": "Sistem Kontrol",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "id": 3067,
+    "kode": "1601C034",
+    "nama": "Sistem Tenaga Listrik",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Rabu 13:30"
   },
   {
-    "id": 3075,
-    "kode": "1601C062",
-    "nama": "Mobile Application Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id": 3072,
+    "kode": "1601C051",
+    "nama": "Pemrosesan Sinyal Digital",
+    "sks": "4",
+    "ujian": "Ujian minggu ke-2 Senin 10:30"
   },
   {
     "id": 3077,
     "kode": "1601C071",
     "nama": "Metodologi Riset",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3078,
-    "kode": "1601C072",
-    "nama": "Elektronika Daya",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+    "ujian": "Ujian minggu ke-2 Senin 07:30"
   },
   {
     "id": 3079,
@@ -399,179 +182,165 @@
     "ujian": "Ujian minggu ke-1 Sabtu 13:30"
   },
   {
-    "id": 3081,
-    "kode": "1601C121",
-    "nama": "Matematika Teknik Elektro",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+    "id": 3082,
+    "kode": "1601C131",
+    "nama": "Statistika",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Senin 07:30"
+  },
+  {
+    "id": 3083,
+    "kode": "1601C251",
+    "nama": "Pemrosesan Citra Digital",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
     "id": 3084,
     "kode": "1601C252",
     "nama": "Gambar Teknik",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 07:30"
+    "ujian": "Ujian minggu ke-2 Kamis 10:30"
   },
   {
-    "id": 3086,
-    "kode": "1601C261",
-    "nama": "Artificial Intelligence",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
-  },
-  {
-    "id": 3087,
-    "kode": "1601C262",
-    "nama": "Robotika",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
-  },
-  {
-    "id": 3089,
-    "kode": "1601C371",
-    "nama": "Renewable Energy",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
-  },
-  {
-    "id": 3096,
-    "kode": "1601C461",
-    "nama": "Wireless Network Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
-  },
-  {
-    "id": 3097,
-    "kode": "1601C462",
-    "nama": "Keamanan Jaringan",
+    "id": 3085,
+    "kode": "1601C253",
+    "nama": "PLC",
     "sks": "4",
     "ujian": "Ujian minggu ke-2 Kamis 13:30"
   },
   {
-    "id": 3100,
-    "kode": "1601C572",
-    "nama": "Computer Network Certification",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id": 3088,
+    "kode": "1601C271",
+    "nama": "Otomasi Industri",
+    "sks": "4",
+    "ujian": "Ujian minggu ke-2 Selasa 10:30"
   },
   {
-    "id": 3110,
-    "kode": "1602C021",
-    "nama": "Neraca Massa dan Energi I",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "id": 3093,
+    "kode": "1601C451",
+    "nama": "Rangkaian RF and Antena",
+    "sks": "4",
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
   },
   {
-    "id": 3112,
-    "kode": "1602C041",
-    "nama": "Termodinamika II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
-  },
-  {
-    "id": 3113,
-    "kode": "1602C042",
-    "nama": "Mekanika Fluida",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
-  },
-  {
-    "id": 3114,
-    "kode": "1602C043",
-    "nama": "Perpindahan Massa dan Panas",
-    "sks": "3",
+    "id": 3094,
+    "kode": "1601C452",
+    "nama": "Manajemen Jaringan Komputer",
+    "sks": "4",
     "ujian": "Ujian minggu ke-1 Kamis 10:30"
   },
   {
-    "id": 3115,
-    "kode": "1602C044",
-    "nama": "Komputasi Numerik Terapan",
-    "sks": "3",
+    "id": 3095,
+    "kode": "1601C453",
+    "nama": "Optical Communications Design",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+  },
+  {
+    "id": 3098,
+    "kode": "1601C471",
+    "nama": "Komunikasi Seluler",
+    "sks": "4",
     "ujian": "Ujian minggu ke-1 Jumat 07:30"
   },
   {
-    "id": 3116,
-    "kode": "1602C045",
-    "nama": "Unit Operasi I",
+    "id": 3102,
+    "kode": "1601C652",
+    "nama": "Biomedical Instrumentation",
+    "sks": "4",
+    "ujian": "Ujian minggu ke-1 Senin 13:30"
+  },
+  {
+    "id": 3107,
+    "kode": "1602C031",
+    "nama": "Termodinamika I",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Senin 10:30"
   },
   {
-    "id": 3117,
-    "kode": "1602C046",
-    "nama": "Dasar-dasar Teknologi & Ilmu Lingkungan",
+    "id": 3109,
+    "kode": "1602C011",
+    "nama": "Pengantar Teknologi Proses",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Kamis 07:30"
+  },
+  {
+    "id": 3119,
+    "kode": "1602C051",
+    "nama": "Praktikum Unit Operasi I",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+  },
+  {
+    "id": 3120,
+    "kode": "1602C052",
+    "nama": "Manajemen",
     "sks": "2",
     "ujian": "Ujian minggu ke-2 Selasa 10:30"
   },
   {
-    "id": 3118,
-    "kode": "1602C047",
-    "nama": "Metodologi Riset dan Analisis Statistika",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
-  },
-  {
-    "id": 3122,
-    "kode": "1602C054",
-    "nama": "Teknik Reaksi Kimia I",
+    "id": 3121,
+    "kode": "1602C053",
+    "nama": "Matematika Teknik Kimia",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "ujian": "Ujian minggu ke-2 Senin 07:30"
   },
   {
-    "id": 3124,
-    "kode": "1602C061",
-    "nama": "Praktikum Unit Operasi II",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
-  },
-  {
-    "id": 3125,
-    "kode": "1602C062",
-    "nama": "Unit Operasi III",
+    "id": 3123,
+    "kode": "1602C055",
+    "nama": "Unit Operasi II",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
-  },
-  {
-    "id": 3126,
-    "kode": "1602C063",
-    "nama": "Proses Industri Kimia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "ujian": "Ujian minggu ke-1 Senin 07:30"
   },
   {
     "id": 3127,
     "kode": "1602C071",
     "nama": "Pengendalian Proses",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "ujian": "Ujian minggu ke-1 Senin 13:30"
   },
   {
     "id": 3128,
     "kode": "1602C072",
     "nama": "Desain Alat",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 07:30"
+    "ujian": "Ujian minggu ke-2 Selasa 07:30"
   },
   {
-    "id": 3131,
-    "kode": "1602C075",
-    "nama": "Kerja Praktik",
+    "id": 3129,
+    "kode": "1602C073",
+    "nama": "Perancangan Proses",
     "sks": "2",
-    "ujian": "Ujian minggu ke-  07:00"
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+  },
+  {
+    "id": 3130,
+    "kode": "1602C074",
+    "nama": "Sistem Utilitas",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Rabu 07:30"
   },
   {
     "id": 3132,
     "kode": "1602C076",
     "nama": "Perancangan Pabrik Kimia",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+  },
+  {
+    "id": 3133,
+    "kode": "1602C077",
+    "nama": "Analisis Keuangan dan Kelayakan",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Selasa 13:30"
   },
   {
     "id": 3134,
     "kode": "1602C081",
     "nama": "Penelitian",
     "sks": "4",
-    "ujian": "Ujian minggu ke-3 Selasa 10:30"
+    "ujian": "Ujian minggu ke-  07:00"
   },
   {
     "id": 3135,
@@ -581,53 +350,67 @@
     "ujian": "Ujian minggu ke-  07:00"
   },
   {
-    "id": 3143,
-    "kode": "1602C161",
-    "nama": "Teknologi Pengolahan Air Buangan I",
+    "id": 3137,
+    "kode": "1602C151",
+    "nama": "Pengantar Teknologi Bioproses",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Senin 07:30"
+  },
+  {
+    "id": 3138,
+    "kode": "1602C152",
+    "nama": "Pengantar Teknologi Polimer",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+  },
+  {
+    "id": 3141,
+    "kode": "1602C155",
+    "nama": "Mikrobiologi Pangan",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Senin 07:30"
+  },
+  {
+    "id": 3142,
+    "kode": "1602C156",
+    "nama": "Teknologi Hidrokoloid",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+  },
+  {
+    "id": 3145,
+    "kode": "1602C171",
+    "nama": "Ilmu Bahan dan Komposit",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+  },
+  {
+    "id": 3146,
+    "kode": "1602C172",
+    "nama": "Teknologi Pengemasan Pangan",
     "sks": "2",
     "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3144,
-    "kode": "1602C162",
-    "nama": "Teknologi Pemrosesan Pangan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3147,
-    "kode": "1602C181",
-    "nama": "Pencegahan Polusi",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
-  },
-  {
-    "id": 3148,
-    "kode": "1602C182",
-    "nama": "Pengendalian Mutu dan Keamanan Pangan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 07:30"
   },
   {
     "id": 3151,
     "kode": "1602C273",
     "nama": "Teknologi Polimer",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "ujian": "Ujian minggu ke-1 Jumat 13:30"
   },
   {
     "id": 3152,
     "kode": "1602C274",
     "nama": "Teknologi Membran",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
+    "ujian": "Ujian minggu ke-1 Rabu 07:30"
   },
   {
-    "id": 3155,
-    "kode": "1602C277",
-    "nama": "Teknologi Pengolahan Minyak dan Lemak",
+    "id": 3159,
+    "kode": "1603C011",
+    "nama": "Pengantar Teknik Industri",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "ujian": "Ujian minggu ke-2 Selasa 10:30"
   },
   {
     "id": 3160,
@@ -644,25 +427,11 @@
     "ujian": "Ujian minggu ke-1 Jumat 07:30"
   },
   {
-    "id": 3162,
-    "kode": "1603C022",
-    "nama": "Pengetahuan Bahan Teknik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
-  },
-  {
-    "id": 3163,
-    "kode": "1603C023",
-    "nama": "Pengantar Ilmu Ekonomi",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
-  },
-  {
     "id": 3164,
     "kode": "1603C031",
     "nama": "Statistika Industri II",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+    "ujian": "Ujian minggu ke-2 Rabu 07:30"
   },
   {
     "id": 3165,
@@ -683,7 +452,7 @@
     "kode": "1603C034",
     "nama": "Analisis Biaya",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "ujian": "Ujian minggu ke-2 Jumat 07:30"
   },
   {
     "id": 3168,
@@ -728,25 +497,11 @@
     "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
-    "id": 3174,
-    "kode": "1603C045",
-    "nama": "Ekonomi Teknik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
-  },
-  {
-    "id": 3175,
-    "kode": "1603C046",
-    "nama": "Mekanika Teknik",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
-  },
-  {
     "id": 3176,
     "kode": "1603C047",
     "nama": "Psikologi Kerja",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
+    "ujian": "Ujian minggu ke-2 Rabu 13:30"
   },
   {
     "id": 3177,
@@ -768,13 +523,6 @@
     "nama": "Sistem Persediaan",
     "sks": "3",
     "ujian": "Ujian minggu ke-1 Jumat 13:30"
-  },
-  {
-    "id": 3180,
-    "kode": "1603C054",
-    "nama": "Manajemen Organisasi",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 16:00"
   },
   {
     "id": 3181,
@@ -809,7 +557,7 @@
     "kode": "1603C062",
     "nama": "Supply Chain Management",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "ujian": "Ujian minggu ke-1 Senin 07:30"
   },
   {
     "id": 3186,
@@ -831,13 +579,6 @@
     "nama": "Kesehatan & Keselamatan Kerja",
     "sks": "2",
     "ujian": "Ujian minggu ke-1 Rabu 13:30"
-  },
-  {
-    "id": 3189,
-    "kode": "1603C071",
-    "nama": "Data Science",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
   },
   {
     "id": 3190,
@@ -875,172 +616,158 @@
     "ujian": "Ujian minggu ke-3 Sabtu 07:30"
   },
   {
-    "id": 3195,
-    "kode": "1603C101",
-    "nama": "Strategic and Performance Management",
+    "id": 3198,
+    "kode": "1603C104",
+    "nama": "Product Life Cycle Management",
     "sks": "3",
     "ujian": "Ujian minggu ke-1 Senin 10:30"
   },
   {
-    "id": 3196,
-    "kode": "1603C102",
-    "nama": "New Product & Service Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3197,
-    "kode": "1603C103",
-    "nama": "Lean Enterprise System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
-  },
-  {
-    "id": 3199,
-    "kode": "1603C105",
-    "nama": "Market Research & CRM",
+    "id": 3200,
+    "kode": "1603C106",
+    "nama": "Integrated Management System",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Senin 13:30"
   },
   {
-    "id": 3203,
-    "kode": "1603C109",
-    "nama": "Maintenance Management",
+    "id": 3201,
+    "kode": "1603C107",
+    "nama": "E-Business",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+  },
+  {
+    "id": 3202,
+    "kode": "1603C108",
+    "nama": "Quality by Design",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Kamis 10:30"
   },
   {
-    "id": 3206,
-    "kode": "1603C201",
-    "nama": "Green Supply Chain Management",
+    "id": 3204,
+    "kode": "1603C110",
+    "nama": "Decision Analysis",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 16:00"
+    "ujian": "Ujian minggu ke-1 Kamis 10:30"
   },
   {
-    "id": 3207,
-    "kode": "1603C202",
-    "nama": "Global Supply Chain Management",
+    "id": 3212,
+    "kode": "1603C209",
+    "nama": "Disaster Management & Logistics",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
-  },
-  {
-    "id": 3208,
-    "kode": "1603C204",
-    "nama": "Procurement & Supply Management",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 07:30"
-  },
-  {
-    "id": 3209,
-    "kode": "1603C205",
-    "nama": "Warehouse Management System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "ujian": "Ujian minggu ke-2 Rabu 13:30"
   },
   {
     "id": 3214,
     "kode": "1604C011",
     "nama": "Algorithm and Programming",
     "sks": "4",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "ujian": "Ujian minggu ke-1 Kamis 10:30"
   },
   {
-    "id": 3217,
-    "kode": "1604C021",
-    "nama": "Object Oriented Programming",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+    "id": 3215,
+    "kode": "1604C012",
+    "nama": "Introduction to Computer Science",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
-    "id": 3218,
-    "kode": "1604C022",
-    "nama": "Operating System",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "id": 3216,
+    "kode": "1604C013",
+    "nama": "Computer Organization and Architecture",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-1 Jumat 13:30"
   },
   {
     "id": 3219,
     "kode": "1604C023",
     "nama": "Statistics",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
   },
   {
-    "id": 3220,
-    "kode": "1604C024",
-    "nama": "Human Computer Interaction",
-    "sks": "2",
+    "id": 3221,
+    "kode": "1604C031",
+    "nama": "Data Structure",
+    "sks": "3",
     "ujian": "Ujian minggu ke-2 Senin 10:30"
+  },
+  {
+    "id": 3222,
+    "kode": "1604C032",
+    "nama": "Computer Network",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Kamis 07:30"
   },
   {
     "id": 3223,
     "kode": "1604C033",
     "nama": "Database",
     "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "ujian": "Ujian minggu ke-2 Kamis 13:30"
   },
   {
     "id": 3224,
     "kode": "1604C034",
     "nama": "Software Engineering",
     "sks": "5",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
-  },
-  {
-    "id": 3226,
-    "kode": "1604C042",
-    "nama": "AI Fundamental",
-    "sks": "3",
     "ujian": "Ujian minggu ke-1 Rabu 13:30"
-  },
-  {
-    "id": 3227,
-    "kode": "1604C043",
-    "nama": "Web Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
-  },
-  {
-    "id": 3228,
-    "kode": "1604C044",
-    "nama": "Distributed Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
   },
   {
     "id": 3229,
     "kode": "1604C045",
     "nama": "Information Security and Assurance",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
-    "id": 3230,
-    "kode": "1604C046",
-    "nama": "Data Science Programming",
+    "id": 3231,
+    "kode": "1604C051",
+    "nama": "Full-Stack Programming",
     "sks": "3",
+    "ujian": "Ujian minggu ke-1 Senin 13:30"
+  },
+  {
+    "id": 3232,
+    "kode": "1604C052",
+    "nama": "Native Mobile Programming",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+  },
+  {
+    "id": 3233,
+    "kode": "1604C053",
+    "nama": "Numerical Methods",
+    "sks": "2",
     "ujian": "Ujian minggu ke-1 Kamis 13:30"
+  },
+  {
+    "id": 3234,
+    "kode": "1604C054",
+    "nama": "Hybrid Mobile Programming",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+  },
+  {
+    "id": 3235,
+    "kode": "1604C055",
+    "nama": "Machine Learning",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
   },
   {
     "id": 3236,
     "kode": "1604C061",
     "nama": "Leadership and Professional Ethics",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
-  },
-  {
-    "id": 3237,
-    "kode": "1604C062",
-    "nama": "Advanced Native Mobile Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+    "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
     "id": 3238,
     "kode": "1604C063",
     "nama": "Web Framework Programming",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
     "id": 3239,
@@ -1068,21 +795,35 @@
     "kode": "1604C095",
     "nama": "Special Topics in Mobile Programming",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
-    "id": 3247,
-    "kode": "1604C09A",
-    "nama": "Industrial Experience",
+    "id": 3251,
+    "kode": "1604C09E",
+    "nama": "Research Experience",
     "sks": "5",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "ujian": "Ujian minggu ke-3 Sabtu 16:00"
   },
   {
-    "id": 3248,
-    "kode": "1604C09B",
-    "nama": "Industrial Practise",
+    "id": 3252,
+    "kode": "1604C09F",
+    "nama": "Scientific Publication",
     "sks": "5",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "ujian": "Ujian minggu ke-  07:00"
+  },
+  {
+    "id": 3255,
+    "kode": "1604C09I",
+    "nama": "Community Development Experience",
+    "sks": "5",
+    "ujian": "Ujian minggu ke-  07:00"
+  },
+  {
+    "id": 3256,
+    "kode": "1604C09J",
+    "nama": "Community Development Practise",
+    "sks": "5",
+    "ujian": "Ujian minggu ke-  07:00"
   },
   {
     "id": 3267,
@@ -1099,18 +840,18 @@
     "ujian": "Ujian minggu ke-  07:00"
   },
   {
-    "id": 3274,
-    "kode": "1604C141",
-    "nama": "Applied Database",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "id": 3272,
+    "kode": "1604C09Z",
+    "nama": "Advanced IT Professional Management",
+    "sks": "5",
+    "ujian": "Ujian minggu ke-2 Sabtu 07:30"
   },
   {
-    "id": 3275,
-    "kode": "1604C151",
-    "nama": "Database Management",
+    "id": 3273,
+    "kode": "1604C131",
+    "nama": "Management Information Systems",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "ujian": "Ujian minggu ke-2 Rabu 10:30"
   },
   {
     "id": 3276,
@@ -1124,28 +865,7 @@
     "kode": "1604C162",
     "nama": "Enterprise System Implementation",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
-  },
-  {
-    "id": 3279,
-    "kode": "1604C19B",
-    "nama": "Special Topics in Software Engineering",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
-  },
-  {
-    "id": 3280,
-    "kode": "1604C19C",
-    "nama": "Software Engineering Workshop",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
-  },
-  {
-    "id": 3281,
-    "kode": "1604C19D",
-    "nama": "Business Intelligence & Data Analytics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
+    "ujian": "Ujian minggu ke-2 Jumat 10:30"
   },
   {
     "id": 3285,
@@ -1155,67 +875,25 @@
     "ujian": "Ujian minggu ke-2 Senin 13:30"
   },
   {
-    "id": 3287,
-    "kode": "1604C241",
-    "nama": "Game Modelling & Animation",
+    "id": 3288,
+    "kode": "1604C251",
+    "nama": "Game Programming",
     "sks": "3",
     "ujian": "Ujian minggu ke-1 Jumat 10:30"
-  },
-  {
-    "id": 3289,
-    "kode": "1604C261",
-    "nama": "Mixed Reality",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 13:30"
-  },
-  {
-    "id": 3290,
-    "kode": "1604C262",
-    "nama": "Mobile Game Programming",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
   },
   {
     "id": 3291,
     "kode": "1604C29A",
     "nama": "Educational Games",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3292,
-    "kode": "1604C29B",
-    "nama": "Game Studio",
-    "sks": "3",
     "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
-    "id": 3295,
-    "kode": "1604C29E",
-    "nama": "Immersive Computing",
+    "id": 3297,
+    "kode": "1604C331",
+    "nama": "Data Mining",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
-  },
-  {
-    "id": 3298,
-    "kode": "1604C341",
-    "nama": "Applied Multivariate Analysis",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
-  },
-  {
-    "id": 3299,
-    "kode": "1604C351",
-    "nama": "Digital Image Processing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
-  },
-  {
-    "id": 3300,
-    "kode": "1604C361",
-    "nama": "Operation Research",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "ujian": "Ujian minggu ke-1 Kamis 07:30"
   },
   {
     "id": 3301,
@@ -1225,88 +903,81 @@
     "ujian": "Ujian minggu ke-2 Senin 13:30"
   },
   {
-    "id": 3303,
-    "kode": "1604C39B",
-    "nama": "Decision Support Systems",
+    "id": 3302,
+    "kode": "1604C39A",
+    "nama": "Modeling and Simulation",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "ujian": "Ujian minggu ke-1 Rabu 07:30"
   },
   {
-    "id": 3309,
-    "kode": "1604C39H",
-    "nama": "Special Topic in DSAI",
+    "id": 3304,
+    "kode": "1604C39C",
+    "nama": "Big Data Analytics",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "ujian": "Ujian minggu ke-2 Selasa 13:30"
   },
   {
-    "id": 3310,
-    "kode": "1604C39I",
-    "nama": "Deep Learning",
+    "id": 3305,
+    "kode": "1604C39D",
+    "nama": "Artificial Intelligence for Game",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 13:30"
+    "ujian": "Ujian minggu ke-2 Jumat 10:30"
   },
   {
-    "id": 3311,
-    "kode": "1604C39J",
-    "nama": "Nature Inspired Optimization",
+    "id": 3308,
+    "kode": "1604C39G",
+    "nama": "Computer Vision",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
+    "ujian": "Ujian minggu ke-1 Senin 10:30"
   },
   {
-    "id": 3312,
-    "kode": "1604C39K",
-    "nama": "Natural Language Processing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
-  },
-  {
-    "id": 3314,
-    "kode": "1604C441",
-    "nama": "Cloud Computing",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
-  },
-  {
-    "id": 3316,
-    "kode": "1604C461",
-    "nama": "Digital Forensics",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
-  },
-  {
-    "id": 3317,
-    "kode": "1604C462",
-    "nama": "Network Security Implementation",
+    "id": 3315,
+    "kode": "1604C451",
+    "nama": "Cryptography",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Jumat 13:30"
   },
   {
-    "id": 3323,
-    "kode": "1604C49F",
-    "nama": "Advanced Computer Network",
+    "id": 3318,
+    "kode": "1604C49A",
+    "nama": "Mobile & Network Forensics",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "ujian": "Ujian minggu ke-2 Selasa 10:30"
+  },
+  {
+    "id": 3325,
+    "kode": "1604C49H",
+    "nama": "IoT Implementation",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Jumat 10:30"
+  },
+  {
+    "id": 3326,
+    "kode": "1604C49I",
+    "nama": "Legal Security and Issues",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Rabu 13:30"
   },
   {
     "id": 3328,
     "kode": "1607C041",
     "nama": "Manajemen SDM dan Organisasi",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
+    "ujian": "Ujian minggu ke-1 Senin 10:30"
   },
   {
     "id": 3329,
     "kode": "1607C051",
     "nama": "Sistem Informasi Produksi dan SCM",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
+    "ujian": "Ujian minggu ke-2 Selasa 10:30"
   },
   {
     "id": 3330,
     "kode": "1607C052",
     "nama": "Tata Kelola dan Audit IT",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
   },
   {
     "id": 3331,
@@ -1320,7 +991,7 @@
     "kode": "1607C061",
     "nama": "Sistem Informasi Geografis",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 10:30"
+    "ujian": "Ujian minggu ke-2 Senin 13:30"
   },
   {
     "id": 3333,
@@ -1337,81 +1008,60 @@
     "ujian": "Ujian minggu ke-2 Rabu 13:30"
   },
   {
-    "id": 3335,
-    "kode": "1607C09A",
-    "nama": "Topik Khusus SIA",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 10:30"
-  },
-  {
     "id": 3337,
     "kode": "1607C09C",
     "nama": "System Testing & Implementation",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3338,
-    "kode": "1607C09D",
-    "nama": "Business Communication",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+    "ujian": "Ujian minggu ke-1 Selasa 13:30"
   },
   {
     "id": 3339,
     "kode": "1607C09E",
     "nama": "Customer Relationship Management",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "ujian": "Ujian minggu ke-2 Senin 10:30"
   },
   {
     "id": 3340,
     "kode": "1607C09F",
     "nama": "IT Preneurship",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 13:30"
+    "ujian": "Ujian minggu ke-2 Rabu 10:30"
   },
   {
     "id": 3341,
     "kode": "1607C09G",
     "nama": "Urban Information System",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+    "ujian": "Ujian minggu ke-2 Kamis 10:30"
   },
   {
-    "id": 3343,
-    "kode": "1608C09L",
-    "nama": "Workshop in Animation",
+    "id": 3342,
+    "kode": "1608C09K",
+    "nama": "Visual Storytelling",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Jumat 10:30"
   },
   {
-    "id": 3344,
-    "kode": "1608C09M",
-    "nama": "Workshop in Videography",
+    "id": 3346,
+    "kode": "1608C031",
+    "nama": "Basic Multimedia Design",
     "sks": "3",
     "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
-    "id": 3348,
-    "kode": "1608C041",
-    "nama": "Graphic Design in Multimedia",
+    "id": 3347,
+    "kode": "1608C032",
+    "nama": "Basic Multimedia Drawing",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Jumat 10:30"
   },
   {
-    "id": 3349,
-    "kode": "1608C042",
-    "nama": "3D Modelling",
+    "id": 3351,
+    "kode": "1608C051",
+    "nama": "Game Concept and Design",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
-  },
-  {
-    "id": 3350,
-    "kode": "1608C043",
-    "nama": "Multimedia Composition & Layout",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
+    "ujian": "Ujian minggu ke-2 Kamis 10:30"
   },
   {
     "id": 3352,
@@ -1428,151 +1078,151 @@
     "ujian": "Ujian minggu ke-1 Jumat 10:30"
   },
   {
-    "id": 3354,
-    "kode": "1608C061",
-    "nama": "Game Engineering",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
-  },
-  {
-    "id": 3355,
-    "kode": "1608C062",
-    "nama": "Digital Video Editing",
+    "id": 3361,
+    "kode": "1608C09F",
+    "nama": "Cinematography",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Jumat 10:30"
   },
   {
-    "id": 3356,
-    "kode": "1608C09A",
-    "nama": "Art Game Assets",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
-  },
-  {
-    "id": 3359,
-    "kode": "1608C09D",
-    "nama": "Educational Multimedia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
-  },
-  {
-    "id": 3362,
-    "kode": "1608C09G",
-    "nama": "Stop Motion",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Jumat 10:30"
-  },
-  {
-    "id": 3363,
-    "kode": "1608C09H",
-    "nama": "Tabletop Game Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
-  },
-  {
-    "id": 3368,
-    "kode": "1610C021",
-    "nama": "Pengetahuan Bahan Teknik",
-    "sks": "4",
-    "ujian": "Ujian minggu ke-2 Rabu 10:30"
-  },
-  {
-    "id": 3369,
-    "kode": "1610C022",
-    "nama": "Termodinamika",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3370,
-    "kode": "1610C023",
-    "nama": "Statika",
-    "sks": "3",
+    "id": 3366,
+    "kode": "1610C011",
+    "nama": "Pengantar Teknik Mesin dan Manufaktur",
+    "sks": "2",
     "ujian": "Ujian minggu ke-2 Kamis 10:30"
   },
   {
-    "id": 3371,
-    "kode": "1610C024",
-    "nama": "Computer Aided Design",
+    "id": 3367,
+    "kode": "1610C012",
+    "nama": "Menggambar Teknik",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
+    "ujian": "Ujian minggu ke-1 Kamis 10:30"
   },
   {
-    "id": 3378,
-    "kode": "1610C041",
-    "nama": "Elemen Mesin I",
+    "id": 3372,
+    "kode": "1610C031",
+    "nama": "Biosains",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Selasa 07:30"
+  },
+  {
+    "id": 3373,
+    "kode": "1610C032",
+    "nama": "Proses Manufaktur: Pengecoran dan Penyambungan",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+  },
+  {
+    "id": 3375,
+    "kode": "1610C034",
+    "nama": "Kekuatan Material",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Kamis 07:30"
+  },
+  {
+    "id": 3376,
+    "kode": "1610C035",
+    "nama": "Mekanika Fluida",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Jumat 07:30"
+  },
+  {
+    "id": 3377,
+    "kode": "1610C036",
+    "nama": "Proyek Gambar Teknik",
+    "sks": "1",
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+  },
+  {
+    "id": 3383,
+    "kode": "1610C051",
+    "nama": "Program Komputer",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Senin 07:30"
+  },
+  {
+    "id": 3384,
+    "kode": "1610C052",
+    "nama": "Desain Produk",
+    "sks": "4",
+    "ujian": "Ujian minggu ke-1 Selasa 10:30"
+  },
+  {
+    "id": 3385,
+    "kode": "1610C053",
+    "nama": "Metrologi Industri",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-1 Senin 13:30"
+  },
+  {
+    "id": 3386,
+    "kode": "1610C054",
+    "nama": "Elemen Mesin II",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Kamis 10:30"
+  },
+  {
+    "id": 3387,
+    "kode": "1610C055",
+    "nama": "Ekonomi Teknik",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Jumat 07:30"
+  },
+  {
+    "id": 3388,
+    "kode": "1610C056",
+    "nama": "Mesin Konversi Energi",
     "sks": "3",
     "ujian": "Ujian minggu ke-2 Jumat 13:30"
   },
   {
-    "id": 3379,
-    "kode": "1610C042",
-    "nama": "Proses Manufaktur: Pemesinan",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 13:30"
+    "id": 3389,
+    "kode": "1610C057",
+    "nama": "Praktikum Proses Manufaktur",
+    "sks": "1",
+    "ujian": "Ujian minggu ke-2 Senin 10:30"
   },
   {
-    "id": 3380,
-    "kode": "1610C043",
-    "nama": "Perpindahan Panas",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
-  },
-  {
-    "id": 3382,
-    "kode": "1610C045",
-    "nama": "Proses Manufaktur: Pembentukan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
-  },
-  {
-    "id": 3394,
-    "kode": "1610C065",
-    "nama": "Riset Operasional",
-    "sks": "2",
+    "id": 3398,
+    "kode": "1610C074",
+    "nama": "Rekayasa Sistem Manufaktur",
+    "sks": "4",
     "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
-    "id": 3415,
-    "kode": "1610C116",
-    "nama": "Pemilihan Material untuk Perancangan Rekayasa",
+    "id": 3417,
+    "kode": "1603C203",
+    "nama": "Distribution & Transportation System",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 13:30"
-  },
-  {
-    "id": 3418,
-    "kode": "1604C19E",
-    "nama": "Business Geography",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
-  },
-  {
-    "id": 3420,
-    "kode": "1602C064",
-    "nama": "Teknik Reaksi Kimia II",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
     "id": 3421,
     "kode": "1602C065",
     "nama": "Keselamatan dan Kesehatan Kerja",
     "sks": "2",
-    "ujian": "Ujian minggu ke-2 Selasa 13:30"
+    "ujian": "Ujian minggu ke-2 Rabu 10:30"
   },
   {
-    "id": 3430,
-    "kode": "1603Z002",
+    "id": 3422,
+    "kode": "1604C056",
+    "nama": "Physically Based Animation",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-2 Rabu 13:30"
+  },
+  {
+    "id": 3429,
+    "kode": "1602Z002",
     "nama": "Pancasila dan Kewarganegaraan",
     "sks": "3",
     "ujian": "Ujian minggu ke-1 Kamis 16:00"
   },
   {
-    "id": 3468,
-    "kode": "1601Z012",
-    "nama": "Manusia dan Pengembangan Diri",
+    "id": 3431,
+    "kode": "1604Z002",
+    "nama": "Pancasila dan Kewarganegaraan",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
+    "ujian": "Ujian minggu ke-1 Kamis 16:00"
   },
   {
     "id": 3469,
@@ -1596,60 +1246,53 @@
     "ujian": "Ujian minggu ke-1 Senin 10:30"
   },
   {
-    "id": 3472,
-    "kode": "1610Z012",
-    "nama": "Manusia dan Pengembangan Diri",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 10:30"
-  },
-  {
     "id": 3473,
     "kode": "1601Z013",
     "nama": "Literasi Digital",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "ujian": "Ujian minggu ke-1 Jumat 16:00"
   },
   {
     "id": 3474,
     "kode": "1602Z013",
     "nama": "Literasi Digital",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "ujian": "Ujian minggu ke-1 Jumat 16:00"
   },
   {
     "id": 3475,
     "kode": "1603Z013",
     "nama": "Literasi Digital",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "ujian": "Ujian minggu ke-1 Jumat 16:00"
   },
   {
     "id": 3476,
     "kode": "1604Z013",
     "nama": "Literasi Digital",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "ujian": "Ujian minggu ke-1 Jumat 16:00"
   },
   {
     "id": 3477,
     "kode": "1610Z013",
     "nama": "Literasi Digital",
     "sks": "2",
+    "ujian": "Ujian minggu ke-1 Jumat 16:00"
+  },
+  {
+    "id": 3480,
+    "kode": "1603Z014",
+    "nama": "Communicative English",
+    "sks": "2",
     "ujian": "Ujian minggu ke-1 Jumat 13:30"
   },
   {
-    "id": 3479,
-    "kode": "1602Z014",
+    "id": 3482,
+    "kode": "1610Z014",
     "nama": "Communicative English",
     "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
-  },
-  {
-    "id": 3481,
-    "kode": "1604Z014",
-    "nama": "Communicative English",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Rabu 10:30"
+    "ujian": "Ujian minggu ke-1 Jumat 13:30"
   },
   {
     "id": 3484,
@@ -1659,44 +1302,16 @@
     "ujian": "Ujian minggu ke-  07:00"
   },
   {
-    "id": 3486,
-    "kode": "1600C109",
-    "nama": "Discrete Mathematics",
+    "id": 3487,
+    "kode": "1607C09H",
+    "nama": "IS Evolving Technology",
     "sks": "3",
-    "ujian": "Ujian minggu ke-2 Selasa 07:30"
-  },
-  {
-    "id": 3488,
-    "kode": "1608C09P",
-    "nama": "Special Topics in Multimedia",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Jumat 10:30"
-  },
-  {
-    "id": 3489,
-    "kode": "1604C49J",
-    "nama": "Special Topics in NCS",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-  07:00"
+    "ujian": "Ujian minggu ke-2 Kamis 10:30"
   },
   {
     "id": 3493,
     "kode": "1000C003",
     "nama": "Pendidikan Agama Kristen",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
-  },
-  {
-    "id": 3494,
-    "kode": "1000C004",
-    "nama": "Pendidikan Agama Katolik",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
-  },
-  {
-    "id": 3495,
-    "kode": "1000C005",
-    "nama": "Pendidikan Agama Islam",
     "sks": "3",
     "ujian": "Ujian minggu ke-1 Senin 16:00"
   },
@@ -1708,13 +1323,6 @@
     "ujian": "Ujian minggu ke-1 Senin 16:00"
   },
   {
-    "id": 3497,
-    "kode": "1000C007",
-    "nama": "Pendidikan Agama Budha",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 16:00"
-  },
-  {
     "id": 3498,
     "kode": "1000C008",
     "nama": "Pendidikan Agama Khonghucu",
@@ -1722,109 +1330,11 @@
     "ujian": "Ujian minggu ke-1 Senin 16:00"
   },
   {
-    "id": 3502,
-    "kode": "1602C280",
-    "nama": "Energi Terbarukan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Senin 16:00"
-  },
-  {
-    "id": 3512,
-    "kode": "1301E11A",
-    "nama": "Ekonomi Bisnis UMKM",
+    "id": 3500,
+    "kode": "1604C014",
+    "nama": "Discrete Mathematics",
     "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
-  },
-  {
-    "id": 3513,
-    "kode": "1301E13A",
-    "nama": "Bisnis Internasional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Kamis 07:30"
-  },
-  {
-    "id": 3514,
-    "kode": "1301B06A",
-    "nama": "Topik Kontemporer Bisnis Internasional",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Senin 13:30"
-  },
-  {
-    "id": 3515,
-    "kode": "1301P01A",
-    "nama": "Ekonomi Syariah",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Kamis 10:30"
-  },
-  {
-    "id": 3516,
-    "kode": "1303A03A",
-    "nama": "Akuntansi Biaya",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Senin 07:30"
-  },
-  {
-    "id": 3517,
-    "kode": "1303A10A",
-    "nama": "Sistem Informasi Akuntansi",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-2 Rabu 13:30"
-  },
-  {
-    "id": 3518,
-    "kode": "1303A34A",
-    "nama": "Investasi dan Pasar Modal",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Rabu 16:00"
-  },
-  {
-    "id": 3525,
-    "kode": "1201A111",
-    "nama": "Kejahatan Siber",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Selasa 10:30"
-  },
-  {
-    "id": 3527,
-    "kode": "1801B061",
-    "nama": "Sustainable Design",
-    "sks": "3",
-    "ujian": "Ujian minggu ke-1 Selasa 07:30"
-  },
-  {
-    "id": 3528,
-    "kode": "1801B046",
-    "nama": "Digital Marketing",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-  07:00"
-  },
-  {
-    "id": 3529,
-    "kode": "71C6F7",
-    "nama": "Purifikasi Bioproduk",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Kamis 16:00"
-  },
-  {
-    "id": 3530,
-    "kode": "1701D7F1",
-    "nama": "Regulasi Bioindustri",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 13:30"
-  },
-  {
-    "id": 3531,
-    "kode": "1702B0P2",
-    "nama": "Teknologi Permen dan Makanan Ringan",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Kamis 10:30"
-  },
-  {
-    "id": 3532,
-    "kode": "1702B0P4",
-    "nama": "Teknologi Hasil Hewani",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-2 Rabu 07:30"
+    "ujian": "Ujian minggu ke-1 Rabu 10:30"
   },
   {
     "id": 3533,
@@ -1834,17 +1344,31 @@
     "ujian": "Ujian minggu ke-2 Rabu 16:00"
   },
   {
-    "id": 3534,
-    "kode": "1000A011",
-    "nama": "Start-up Business Development",
-    "sks": "6",
-    "ujian": "Ujian minggu ke-2 Rabu 16:00"
+    "id": 3571,
+    "kode": "1602C033",
+    "nama": "Neraca Massa dan Energi",
+    "sks": "2",
+    "ujian": "Ujian minggu ke-2 Rabu 10:30"
   },
   {
-    "id": 3535,
-    "kode": "1601C392",
-    "nama": "Topik Khusus IR: Autonomous",
-    "sks": "2",
-    "ujian": "Ujian minggu ke-1 Jumat 13:30"
+    "id": 3572,
+    "kode": "1602C056",
+    "nama": "Pengantar Teknik Reaksi Kimia",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Kamis 07:30"
+  },
+  {
+    "id": 3573,
+    "kode": "1602C066",
+    "nama": "Teknik Reaksi Kimia",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Senin 10:30"
+  },
+  {
+    "id": 3581,
+    "kode": "1602C163",
+    "nama": "Teknik Reaksi Kimia Pangan",
+    "sks": "3",
+    "ujian": "Ujian minggu ke-1 Senin 10:30"
   }
 ]
